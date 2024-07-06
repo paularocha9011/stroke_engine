@@ -1,0 +1,11 @@
+Model Information:
+* title:	4-cylinder 2-stroke Engine
+* source:	https://sketchfab.com/3d-models/4-cylinder-2-stroke-engine-6379875bcd1740cda642d89e7a0eab8e
+* author:	Blendoriano (https://sketchfab.com/Blendoriano)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "4-cylinder 2-stroke Engine" (https://sketchfab.com/3d-models/4-cylinder-2-stroke-engine-6379875bcd1740cda642d89e7a0eab8e) by Blendoriano (https://sketchfab.com/Blendoriano) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
